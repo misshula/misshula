@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working @shopify working with our third party channel partners!
+
 <!--
 **misshula/misshula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
