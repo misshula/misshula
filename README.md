@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working @shopify working with our third party channel partners!
+- 🔭 I’m currently working @shopify as a Senior Engineering Manager.
+
+- 💬 Ask me about anything you wish! 
 
 <!--
 **misshula/misshula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
